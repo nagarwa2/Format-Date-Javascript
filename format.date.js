@@ -80,7 +80,9 @@ var dateFormat = function(){
             formattedDate += twoDigit(date.getDate()) + " ";
           }else if(breakFormat[j].indexOf("Y") >= 0){
             formattedDate += date.getFullYear() + " ";
-          }
+          }else{
+            formattedDate = "Invalid date format";
+	  }
         }
   }
   if(format.indexOf("/") >= 0 && format.indexOf(":") >= 0){
