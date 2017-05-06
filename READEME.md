@@ -20,4 +20,6 @@ No arguments                                                Returns current date
 
 Screenshots:
 
+![alt text](https://github.com/nagarwa2/Format-Date-Javascript/blob/master/1.png)
 
+![alt text](https://github.com/nagarwa2/Format-Date-Javascript/blob/master/2.png)
