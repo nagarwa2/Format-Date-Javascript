@@ -16,7 +16,7 @@ No arguments                                                Returns current date
 '5/4/2017, 4:32:27 PM'  'MM-DD-YYYY HH:MM:SS'               05-04-2017 16:32:27
 'Sat Mar 06 2017 16:32:11 GMT-0500 (CDT)'  'd D m Y'        Tuesday 06 Mar 2017
 'abc' 'abc'                                                 Invalid Date
-'06/05/2017'  'abc'                                         Invalid Date Format
+'06/05/2017'  'abc'                                         Invalid date format
 
 Screenshots:
 
